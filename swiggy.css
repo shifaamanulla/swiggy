@@ -1,0 +1,76 @@
+
+.col{
+    width: 50%;
+    height: 650px;
+    border: 2px solid rgb(255, 255, 255);
+   transition: ease-in-out;
+   
+
+    
+}
+.col1{
+    background-color:white;
+    
+}
+.col2{
+    background-image: url("./imag/Lunch1_vlksgq.webp");
+    background-size: cover;
+    margin-top: -814px;
+    margin-left: 670px;
+    
+}
+img{
+    width: 200px;
+    border: 2px solid white;
+}
+.sub{
+    background-color:white;
+    margin-top: 95px;
+    margin-left: -93px;
+    
+   
+}
+#u1{
+    color:white;
+    margin-left: 100px;
+    display: flex;
+    justify-content:space-around;
+}
+.sub1{
+width: 15%;
+height: 30px;
+background-color: black;
+color: white;
+font-size:large;
+font-weight: 100;
+text-align:center;
+margin-top: 20px;
+
+
+}
+h3{
+    margin-top: 2px;
+    margin-left: 6px;
+    font-size: 20px;
+    font-weight: 600px;
+    
+}
+
+.a{
+    color: black;
+    font-size: 16px;
+    margin-left: 155px;
+    margin-top: 23px;
+}
+h4:hover{
+    color:orange;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+#a1{
+    color: white;
+    text-decoration: none;
+}
