@@ -1,6 +1,6 @@
 
 .col{
-    width: 50%;
+    width: 100%;
     height: 650px;
     border: 2px solid rgb(255, 255, 255);
    transition: ease-in-out;
@@ -16,7 +16,7 @@
     background-image: url("./imag/Lunch1_vlksgq.webp");
     background-size: cover;
     margin-top: -814px;
-    margin-left: 670px;
+    margin-left: 1000px;
     
 }
 img{
@@ -26,13 +26,13 @@ img{
 .sub{
     background-color:white;
     margin-top: 95px;
-    margin-left: -93px;
+    margin-left: 20px;
     
    
 }
 #u1{
     color:white;
-    margin-left: 100px;
+    margin-left:0px;
     display: flex;
     justify-content:space-around;
 }
@@ -45,6 +45,7 @@ font-size:large;
 font-weight: 100;
 text-align:center;
 margin-top: 20px;
+margin-left: 100px;
 
 
 }
