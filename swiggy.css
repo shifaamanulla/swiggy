@@ -15,7 +15,7 @@
 .col2{
     width: 50%;
     background-image: url("./imag/Lunch1_vlksgq.webp");
-    background-size: cover;
+    background-size:contain;
     margin-top: -814px;
     margin-left: 695px;
     
