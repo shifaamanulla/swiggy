@@ -13,10 +13,11 @@
     
 }
 .col2{
+    width: 50%;
     background-image: url("./imag/Lunch1_vlksgq.webp");
     background-size: cover;
     margin-top: -814px;
-    margin-left: 1000px;
+    margin-left: 695px;
     
 }
 img{
