@@ -1,3 +1,6 @@
+body{
+    padding: 0;
+}
 .b{
   
    font-size: 35px;
@@ -217,7 +220,7 @@ font: weight 600;
     font: weight 600;
 }
 .aa{
-    margin-top: -12px;
+    margin-top: 55px;
 }
 .l9{
     margin-left:80px;
@@ -365,7 +368,10 @@ ul{
     font-size: 14px;
     position: absolute;
     top: 35px;
+
 }
+
+
 .g{
     margin-left: 380px;
 }
